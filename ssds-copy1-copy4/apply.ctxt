@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=apply
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=input
+comment2.target=java.lang.Object\ process(java.lang.Object)
+comment3.params=p\ s
+comment3.target=void\ process(Processor,\ java.lang.Object)
+comment4.params=rgs
+comment4.target=void\ main(java.lang.String[])
+numComments=5

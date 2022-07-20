@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=cinema
+comment1.params=ft
+comment1.target=void\ f(canfight)
+comment2.params=fy
+comment2.target=void\ fl(canfly)
+comment3.params=sm
+comment3.target=void\ sw(canswim)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

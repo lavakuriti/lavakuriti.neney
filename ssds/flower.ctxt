@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=flower
+comment1.params=petals
+comment1.target=flower(int)
+comment2.params=ss
+comment2.target=flower(java.lang.String)
+comment3.params=petals\ s
+comment3.target=flower(int,\ java.lang.String)
+comment4.params=
+comment4.target=flower()
+comment5.params=
+comment5.target=void\ petalprint()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

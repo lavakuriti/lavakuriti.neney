@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=let
+comment1.params=p\ s
+comment1.target=let(int,\ java.lang.String)
+comment2.params=
+comment2.target=let()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

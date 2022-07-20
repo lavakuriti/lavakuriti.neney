@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=lion
+comment1.params=q
+comment1.target=void\ showq(quality)
+comment2.params=t
+comment2.target=void\ showt(tactics)
+numComments=3

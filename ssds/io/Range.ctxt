@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Range
+comment1.params=n
+comment1.target=int[]\ range(int)
+comment2.params=start\ end
+comment2.target=int[]\ range(int,\ int)
+numComments=3

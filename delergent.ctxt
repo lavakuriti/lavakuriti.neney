@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=delergent
+comment1.params=s
+comment1.target=void\ apply(java.lang.String)
+comment2.params=s
+comment2.target=void\ scrub(java.lang.String)
+comment3.params=s
+comment3.target=void\ wash(java.lang.String)
+comment4.params=s
+comment4.target=void\ foam(java.lang.String)
+comment5.params=s
+comment5.target=void\ smelladd(java.lang.String)
+comment6.params=s
+comment6.target=void\ apply(java.lang.String)
+comment7.params=s
+comment7.target=void\ scrub(java.lang.String)
+comment8.params=s
+comment8.target=void\ wash(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

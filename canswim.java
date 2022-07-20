@@ -1,0 +1,4 @@
+interface canswim
+{
+    void swim();
+}

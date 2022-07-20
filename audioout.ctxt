@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=audioout
+comment1.params=m
+comment1.target=void\ all(musical)
+comment2.params=k
+comment2.target=void\ allout(musical[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

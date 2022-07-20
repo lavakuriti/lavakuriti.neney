@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=vocals
+comment1.params=i
+comment1.target=void\ vocal(dog)
+comment2.params=i
+comment2.target=void\ vocal(cat)
+comment3.params=i
+comment3.target=void\ vocal(buffalo)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

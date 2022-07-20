@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=passingthis
+comment1.params=apple
+comment1.target=void\ eat(Apple)
+comment2.params=agrgs
+comment2.target=void\ main(java.lang.String[])
+numComments=3

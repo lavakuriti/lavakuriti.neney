@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rock
+comment1.params=e
+comment1.target=void\ play(equiliser)
+comment2.params=e
+comment2.target=void\ adjust(equiliser)
+comment3.params=e
+comment3.target=java.lang.String\ what(equiliser)
+numComments=4

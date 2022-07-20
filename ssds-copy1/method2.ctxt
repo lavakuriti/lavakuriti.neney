@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=method2
+comment1.params=ingre
+comment1.target=void\ process(java.lang.String)
+comment2.params=
+comment2.target=void\ milk()
+comment3.params=
+comment3.target=void\ pour()
+comment4.params=
+comment4.target=void\ boil()
+comment5.params=
+comment5.target=void\ addtea()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

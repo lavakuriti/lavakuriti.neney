@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=things
+comment1.params=i
+comment1.target=dplate(int)
+comment2.params=i
+comment2.target=things(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

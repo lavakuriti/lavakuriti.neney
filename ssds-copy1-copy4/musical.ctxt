@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=musical
+comment1.params=e
+comment1.target=void\ play(equiliser)
+comment2.params=e
+comment2.target=void\ adjust(equiliser)
+comment3.params=
+comment3.target=java.lang.String\ what()
+numComments=4
